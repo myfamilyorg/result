@@ -1,4 +1,4 @@
 [crate]
 	bin = "result"
 [deps]
-	error = { git = "https://github.com/myfamilyorg/error" }
+	error = { git = "https://github.com/myfamilyorg/error", rev="c928df0377f3bd231390f69b9da35e667e598be5" }
