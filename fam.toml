@@ -1,4 +1,4 @@
 [crate]
 	bin = "result"
 [deps]
-	error = { path = "../error" }
+	error = { git = "https://github.com/myfamilyorg/error" }
